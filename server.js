@@ -4,7 +4,7 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
-const PORT = 3008;
+const PORT = 3010;
 
 const app = express();
 
