@@ -7,7 +7,7 @@ This application allows users to quickly and easily log their income and expense
 Node.js, Express.js, MongoDB, Mongoose, MongoDB Atlas, IndexedDB
 
 ## Installation and Deployment
-To see the fitness tracker at work in your browser, [click to visit the Heroku deployment here] (https://aqueous-anchorage-97607.herokuapp.com/?id=6162f654a05bf40016ecaa95).
+To see the fitness tracker at work in your browser, [click to visit the Heroku deployment here] (https://quiet-thicket-67024.herokuapp.com/).
 
 To run it from your local server: 
 * First, ensure that Node.js and MongoDB are installed and running on your computer.
@@ -16,5 +16,5 @@ To run it from your local server:
 * Visit http://localhost:3000 in your browser
 
 ## Screenshots
-![budgetscreenshot](https://github.com/endlessashley/fitness-tracker-2/blob/902932da1773639629b9390174ade87afa3c21d0/images/Screen%20Shot%202021-10-10%20at%202.47.36%20AM.png)
-
+![budgetscreenshot]
+(https://github.com/endlessashley/Progressive-Budget/blob/0dabef1b41ea8e053d0e512b4de4fb2c0dde5c17/images/Screen%20Shot%202021-10-12%20at%209.56.03%20AM.png)
