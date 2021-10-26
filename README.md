@@ -16,5 +16,4 @@ To run it from your local server:
 * Visit http://localhost:3000 in your browser
 
 ## Screenshots
-![budgetscreenshot]
-(https://github.com/endlessashley/Progressive-Budget/blob/0dabef1b41ea8e053d0e512b4de4fb2c0dde5c17/images/Screen%20Shot%202021-10-12%20at%209.56.03%20AM.png)
+![budgetscreenshot](https://raw.githubusercontent.com/endlessashley/Progressive-Budget/main/images/budgetscreenshot.png)
